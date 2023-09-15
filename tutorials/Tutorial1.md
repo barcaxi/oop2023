@@ -29,7 +29,7 @@
 
 3.	Create a new folder on your X drive or external hard drive called ``oop3`` to store all your code for this module.  You should save all your programs there.  You can also change the default sketchbook location using  ``File > Preferences...`` to your new folder.
 
-4.	In your ``oop3`` folder create a new sketch (program) called [tut01_01_shapes](../code/tutorials/tut01_01_shapes/tut01_01_shapes.zip?raw=true) using the code below and run it:
+4.	In your ``oop3`` folder create a new sketch (program) called [tut01_01_shapes](../code/tutorials/tut01_01_shapes/tut01_01_shapes.zip) using the code below and run it:
 
 	```java	
 	size(300, 200);
@@ -51,7 +51,7 @@
 	```
 
 5.	The program above works because there are no errors in it.
-	The program [tut01_02_errors](../code/tutorials/tut01_02_errors/tut01_02_errors.zip?raw=true) below has errors.  
+	The program [tut01_02_errors](../code/tutorials/tut01_02_errors/tut01_02_errors.zip) below has errors.  
 	Carefully examine the error messages shown and fix them.
 
 	```java
@@ -75,7 +75,7 @@
 
 ## Part 2 - Shapes & Colours
 
-1.	Use the blank graph [here](../notes/grid.docx?raw=true) to draw the primitive shapes specified by the code:
+1.	Use the blank graph [here](../notes/grid.docx) to draw the primitive shapes specified by the code:
 
 	```java
 	line(0, 0, 19, 6);
@@ -95,7 +95,7 @@
 
 	![alt text](../images/tutorial1_squares.png "")
 
-4.	Provide the missing RGB values for the colours needed in the code [tut01_03_rgb](../code/tutorials/tut01_03_rgb/tut01_03_rgb.zip?raw=true):
+4.	Provide the missing RGB values for the colours needed in the code [tut01_03_rgb](../code/tutorials/tut01_03_rgb/tut01_03_rgb.zip):
 
 	![alt text](../images/tutorial1_gridshapesRGB.png "RGB colours")
 
@@ -121,7 +121,7 @@
 
 5.	Design your own *simple* creature using simple shapes and colors. 
 	Draw the creature by hand using only points, lines, rectangles, and ellipses. 
-	Then using the template program [tut01_creature](../code/tutorials/tut01_creature/tut01_creature.zip?raw=true) write the code for the creature using commands like - ```point()```, 
+	Then using the template program [tut01_creature](../code/tutorials/tut01_creature/tut01_creature.zip) write the code for the creature using commands like - ```point()```, 
 	```line()```, ```rect( )```, ```ellipse()```, ```stroke()``` , and ```fill()```. 
 
 	This is zoog!
@@ -133,7 +133,7 @@
 
 ## Part 3 - Processing Reference
 
-1.	Using the [Processing Reference](https://processing.org/reference/ "Processing Reference"), try to draw a triangle in the program [tut01_03_rgb](../code/tutorials/tut01_03_rgb/tut01_03_rgb.zip?raw=true) using the ``triangle()`` method.  
+1.	Using the [Processing Reference](https://processing.org/reference/ "Processing Reference"), try to draw a triangle in the program [tut01_03_rgb](../code/tutorials/tut01_03_rgb/tut01_03_rgb.zip) using the ``triangle()`` method.  
 	It should then look like this:
 
 	![alt text](../images/tutorial1_triangle.png "") 
@@ -145,7 +145,7 @@
 
 ## Part 4 - Program Flow
 
-1.	Run the program [ellipse_moving](../code/notes/ellipseMoving/ellipseMoving.zip?raw=true).
+1.	Run the program [ellipse_moving](../code/notes/ellipseMoving/ellipseMoving.zip).
 
 2.	Modify the code so the ellipse moves twice as fast across the screen.
 
@@ -166,7 +166,7 @@
 
 ## Part 5 - Built-In Variables
 
-1.	Run the program [ellipse_tracking](../code/notes/ellipseTracking/ellipseTracking.zip?raw=true).
+1.	Run the program [ellipse_tracking](../code/notes/ellipseTracking/ellipseTracking.zip).
 
 2.	Modify the code so the radius of the ellipse uses the current mouse y location.
 	Restore the ellipses width and height to 50 when done.
@@ -176,7 +176,7 @@
 4.	Uncomment the ``background()`` method in ``setup()`` and comment out ``background()`` method in ``draw()`` run the code again.	
 	Can you explain why you see a trail of ellipses.  Restore the backgrounds when finished.
 
-5.	Run the program [tut01_04_lineDrawing](../code/tutorials/tut01_04_lineDrawing/tut01_04_lineDrawing.zip?raw=true). Uncomment the ``background()`` method in ``draw()`` and run the code again.	
+5.	Run the program [tut01_04_lineDrawing](../code/tutorials/tut01_04_lineDrawing/tut01_04_lineDrawing.zip). Uncomment the ``background()`` method in ``draw()`` and run the code again.	
 	Again understand when this effect is happening.
 
 6.	Create a new program ``tut01_creature_tracking`` that uses both the x and y location of the mouse for the x,y coordinates of your creature.
@@ -184,7 +184,7 @@
 
 ## Part 6 - Processing Events
 
-1.	Run the program [ellipse_mouse](../code/notes/ellipseMouse/ellipseMouse.zip?raw=true)
+1.	Run the program [ellipse_mouse](../code/notes/ellipseMouse/ellipseMouse.zip)
 
 	Modify the code in ``keyPressed()`` so when the key 'r' is pressed the colour **r**ed will be used next time an ellipse is drawn.  Hint: Use the [``fill()``](https://processing.org/reference/fill_.html "fill()") method.
 
@@ -195,7 +195,7 @@
 
 **Random**
 
-1.	Modify the program [ellipse_random](../code/notes/ellipseRandom/ellipseRandom.zip?raw=true) so the colours of the ellipses have random RGB values.
+1.	Modify the program [ellipse_random](../code/notes/ellipseRandom/ellipseRandom.zip) so the colours of the ellipses have random RGB values.
 
 2.	Modify the program so the ellipses are drawn at the mouse x and y location.  You should achieve the effect shown below:
 
@@ -216,7 +216,7 @@
 
 **Images**
 
-1.	Run the program [image_earthrise](../code/notes/imageEarthRise/imageEarthRise.zip?raw=true).
+1.	Run the program [image_earthrise](../code/notes/imageEarthRise/imageEarthRise.zip).
 
 2.	Modify the code so your creature is drawn on the image at the current mouse position:
 
