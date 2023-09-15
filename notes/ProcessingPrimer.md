@@ -177,7 +177,7 @@ Then there things you need to do as the program runs:
 -	change variable values
 -	draw new content
 
-For example, this program [ellipse_moving](../code/notes/ellipseMoving/ellipseMoving.zip?raw=true) draws an ellipse that moves across the screen:
+For example, this program [ellipse_moving](../code/notes/ellipseMoving/ellipseMoving.zip) draws an ellipse that moves across the screen:
 
 ```java
 float x; 
@@ -211,7 +211,7 @@ These 2 blocks of code will form the template of all of our programs from now on
 
 Processing has some handy built-in system variables that can be used.
 
-For example [``mouseX``](https://processing.org/reference/mouseX.html "mouseX()") and [``height``](https://processing.org/reference/height.html "height()") variables are used here in the program [ellipse_tracking](../code/notes/ellipseTracking/ellipseTracking.zip?raw=true).
+For example [``mouseX``](https://processing.org/reference/mouseX.html "mouseX()") and [``height``](https://processing.org/reference/height.html "height()") variables are used here in the program [ellipse_tracking](../code/notes/ellipseTracking/ellipseTracking.zip).
 
 ```java
 // runs one time
@@ -239,7 +239,7 @@ A few other built-in variables are [``mouseY``](https://processing.org/reference
 
 # Processing Events
 
-We already talked about events and the flow of a typical Processing program in the [Program Flow](#program-flow) section.  Two useful interaction events that can occur are mouse events and key events.  For example, let's say we want to do something when a mouse click event happens or a key is pressed.  There are built-in methods called [``mousePressed()``](https://processing.org/reference/mousePressed_.html) and [``keyPressed()``](https://processing.org/reference/keyPressed_.html) which is used in the program [ellipse_mouse](../code/notes/ellipseMouse/ellipseMouse.zip?raw=true) below:
+We already talked about events and the flow of a typical Processing program in the [Program Flow](#program-flow) section.  Two useful interaction events that can occur are mouse events and key events.  For example, let's say we want to do something when a mouse click event happens or a key is pressed.  There are built-in methods called [``mousePressed()``](https://processing.org/reference/mousePressed_.html) and [``keyPressed()``](https://processing.org/reference/keyPressed_.html) which is used in the program [ellipse_mouse](../code/notes/ellipseMouse/ellipseMouse.zip) below:
 
 ```java
 void setup()
@@ -319,7 +319,7 @@ There follows examples of some more useful built-in Processing methods.
 
   ``textSize()`` sets the font size.
 
-  For example, the program [text_helloworld](../code/notes/textHelloWorld/textHelloWorld.zip?raw=true) draws "hello world" at the mouse (x,y) coordinates:
+  For example, the program [text_helloworld](../code/notes/textHelloWorld/textHelloWorld.zip) draws "hello world" at the mouse (x,y) coordinates:
 
   ```java
   void setup()
@@ -345,7 +345,7 @@ There follows examples of some more useful built-in Processing methods.
 
   The ``image()`` method draws an image to the display window.
 
-  For example, the program [image_earthrise](../code/notes/imageEarthRise/imageEarthRise.zip?raw=true) loads and draws ``earthrise.jpg``
+  For example, the program [image_earthrise](../code/notes/imageEarthRise/imageEarthRise.zip) loads and draws ``earthrise.jpg``
 
   ```java
   PImage img;
