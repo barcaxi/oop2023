@@ -279,7 +279,7 @@ There follows examples of some more useful built-in Processing methods.
 
   Generates a random number within a specified range.
 
-  For example, the program [ellipse_random](../code/notes/ellipseRandom/ellipseRandom.zip?raw=true) draws ellipses at random (x,y) coordinates:
+  For example, the program [ellipse_random](../code/notes/ellipseRandom/ellipseRandom.zip) draws ellipses at random (x,y) coordinates:
 
   ```java
   void setup()
