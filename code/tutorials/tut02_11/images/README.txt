@@ -1,0 +1,1 @@
+place all the images from images.zip in this folder
