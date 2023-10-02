@@ -4,7 +4,9 @@ These exercises are intended to get you used to working with ``try``, ``catch`` 
 
 ## Part 1
 
-1.	Run the program [tut03_01](/code/tutorials/tut03_01/tut03_01.zip?raw=true) and observe it's output.
+
+
+1.	Run the program [tut03_01](/code/tutorials/tut03_01/tut03_01) and observe it's output.
 	
 2.	Uncomment the code labelled "Line 2" and run again.
 
@@ -14,11 +16,11 @@ These exercises are intended to get you used to working with ``try``, ``catch`` 
 
 ## Part 2
 
-1.	Run the program [tut03_02](/code/tutorials/tut03_02/tut03_02.zip?raw=true) and observe it's output.
+1.	Run the program [tut03_02](/code/tutorials/tut03_02/tut03_02) and observe it's output.
 	
 2.	Provide the appropriate ``try-catch`` to catch the exception and print the details associated with it using the ``getMessage()`` method. Then run the program again to see the output.
 
-3.	Open the program [tut03_03](/code/tutorials/tut03_03/tut03_03.zip?raw=true).  Include the ``images`` sub-folder too.
+3.	Open the program [tut03_03](/code/tutorials/tut03_03/tut03_03).  Include the ``images`` sub-folder too.
 
 4.	Run ``tut03_03`` and type letters from the keyboard.  You should see an image appear for each letter typed.  Type any numeric digit to see a Java runtime error occur.
 
@@ -30,7 +32,7 @@ These exercises are intended to get you used to working with ``try``, ``catch`` 
 
 ## Part 3 
 
-1.	Open the program [tut03_04](/code/tutorials/tut03_04/tut03_04.zip?raw=true).
+1.	Open the program [tut03_04](/code/tutorials/tut03_04/tut03_04).
 	
 2.	Provide an appropriate ``try-catch`` mechanism in the ``setup()`` method to handle the ArithmeticException exception that occurs with the call to the ``div()`` methods.
 
@@ -38,7 +40,7 @@ These exercises are intended to get you used to working with ``try``, ``catch`` 
 
 ## Part 4
 
-1.	Open the program [tut03_05](/code/tutorials/tut03_05/tut03_05.zip?raw=true).
+1.	Open the program [tut03_05](/code/tutorials/tut03_05/tut03_05).
 
 	Let's write code to check the *(x,y)* coordinates used in the ``Spot`` constructor are valid.  If they are not we will throw an exception.
 
