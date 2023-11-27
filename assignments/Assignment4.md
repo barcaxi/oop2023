@@ -12,7 +12,7 @@
 
 The deadline for electronic submissions is noon Friday 23rd December 2022.  Submit your code via the link on BlackBoard.
 
-Submit your [Assignment Cover Sheet](resources/2022OOPa4CACoverSheet.docx?raw=true) during any lecture before the end of semester.
+Submit your [Assignment Cover Sheet](resources/2023oopa4Coversheet.docx) during any lecture before the end of semester.
 
 
 **A note on plagiarism and cheating**
@@ -34,7 +34,7 @@ Some of the classes you create in one part may be copied into another (and perha
 
 ## Part 1 – GameData, ArrayLists, etc
 
-Get the project folder ``pacmanPart1`` [here](resources/pacmanPart1.zip?raw=true). 
+Get the project folder ``pacmanPart1`` [here](resources/pacmanPart1.zip). 
 
 
 **Follow the instructions below precisely**.  Any deviation from this will mean you could lose marks.
