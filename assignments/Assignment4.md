@@ -250,7 +250,7 @@ Make a copy of your ``pacmanPart2`` project folder, paste and rename it ``pacman
 
 ### InvalidLocationException
 
-1.	Create a class called ``InvalidLocationException``.  See the Java Doc file [here](./InvalidLocationException.html).  **You MUST create the class exactly as required in the Java documentation given**.  Pay attention to inheritance, constructors and methods in this class.
+1.	Create a class called ``InvalidLocationException``.  See the Java Doc file [here](https://lyitbb.blackboard.com/bbcswebdav/courses/OOPR_IT603_2023_CL/InvalidLocationException.html).  **You MUST create the class exactly as required in the Java documentation given**.  Pay attention to inheritance, constructors and methods in this class.
 
 1.	You should have noticed that the game characters  are placed in locations within the game grid.  Specifically any location from [0,0] to [6,7]. Format is [column,row]
 
