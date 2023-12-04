@@ -148,10 +148,10 @@ Open and run the program [tut09_04](/code/tutorials/tut09_04/tut09_04.zip). Take
 	Your answer should complete the values of the variables ``start``, ``mid``, ``end`` in the empty table given.
 
 
-
+<!-- 
 ## Exam Revision
 
 Attempt the Week 10 & 11 exam question(s) [here](../notes/Examinations.md).
 
 
-
+ -->
