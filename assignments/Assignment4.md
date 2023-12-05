@@ -274,7 +274,7 @@ This code solution will require a moderate amount of independent work by you.
 
 1.	Before creating our interface make the following preparatory change to the `Pacman` class.  Create a new class boolean variable called ``edible`` and initialise it to ``true``.  This variable will determine if the Pacman is edible or not to ghosts.  By default Pacman is edible.
 
-1.	Create an interface called ``Edible`` See the Java Doc file [here](http://noucamp.org/oop/2020/a4/doc/Edible.html)
+1.	Create an interface called ``Edible`` See the Java Doc file [here](https://lyitbb.blackboard.com/bbcswebdav/courses/OOPR_IT603_2023_CL/Edible.html)
 
 1.	Provide the appropriate implementation of ``Edible`` in the ``Pacman`` class.
 
