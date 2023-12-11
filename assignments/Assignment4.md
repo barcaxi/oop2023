@@ -2,10 +2,10 @@
 
 ## Contents
 
-- [Part 1](#part-1--gamedata-arraylists-etc) []
-- [Part 2](#part-2---ghost--gamecharacter-abstract-class) []
-- [Part 3](#part-3---invalidlocationexception--edible) []
-- [Part 4](#part-4---energizer-scores--lives) []
+- [Part 1](#part-1--gamedata-arraylists-etc) [28%]
+- [Part 2](#part-2---ghost--gamecharacter-abstract-class) [22%]
+- [Part 3](#part-3---invalidlocationexception--edible) [25%]
+- [Part 4](#part-4---energizer-scores--lives) [25%]
 
 
 ## Submission Details
